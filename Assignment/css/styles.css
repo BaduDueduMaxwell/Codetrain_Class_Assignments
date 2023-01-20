@@ -1,0 +1,51 @@
+.carousel-content {
+    width: 700%;
+    height: 700%;
+    object-fit: cover; 
+}
+
+.carousel-margin {
+    margin-top: 0px 500px;
+}
+
+.nav-background {
+    background-color: #215c93;
+    padding: 10px;
+}
+
+.container {
+    border: 1px orange solid;
+}
+body {
+    border: 3px rgb(124, 117, 117) solid;
+}
+
+
+.shape {
+    border: 3px orange solid;
+}
+
+.size-img {
+    width: 100%;
+}
+
+.pad {
+    padding: 50px;
+}
+
+.margin-footer {
+    margin-top: 50px;
+    background-color: #215c93;
+}
+
+.footer-image {
+    padding-top: 35px;
+}
+
+p {
+    font-size: larger;
+}
+
+.parag-footer {
+    color: white;
+}
